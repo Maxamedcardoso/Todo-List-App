@@ -43,7 +43,7 @@ margin-bottom: 40px;
 }
 .input-task .inputfill:focus{
     outline: none;
-    border: 0.1px solid lightcoral;
+    border: 0.1px solid rgb(128, 240, 150);
 }
 .input-task input[type=submit]{
    
@@ -78,7 +78,7 @@ margin-bottom: 40px;
 }
 .filter:focus{
     outline: none;
-    border: 0.1px solid lightsalmon;
+    border: 0.1px solid rgb(10, 201, 51);
 }
 .output-task{
     display: flex;
